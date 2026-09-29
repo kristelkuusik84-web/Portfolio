@@ -1,0 +1,50 @@
+Squirrel_Profile_ID,Age,Primary_Fur_Color,Highlight_Fur_Color
+1,Adult,Gray,"Cinnamon, White"
+2,Adult,Cinnamon,"Gray, White"
+3,Juvenile,Gray,Unknown
+4,Adult,Black,Cinnamon
+5,Juvenile,Gray,"Black, Cinnamon"
+6,Juvenile,Cinnamon,"Black, White"
+7,?,Gray,White
+8,Juvenile,Cinnamon,"Gray, Black"
+9,Adult,Cinnamon,Gray
+10,Juvenile,Gray,Cinnamon
+11,Unknown,Gray,White
+12,Adult,Black,Unknown
+13,Juvenile,Cinnamon,White
+14,Unknown,Unknown,Unknown
+15,Adult,Gray,Cinnamon
+16,Adult,Black,"Cinnamon, White"
+17,Juvenile,Black,"Gray, White"
+18,Juvenile,Cinnamon,"Gray, White"
+19,Adult,Cinnamon,"Gray, Black"
+20,Adult,Cinnamon,"Black, White"
+21,Adult,Gray,Unknown
+22,Adult,Cinnamon,White
+23,Juvenile,Gray,"Cinnamon, White"
+24,Juvenile,Cinnamon,Gray
+25,Juvenile,Unknown,Unknown
+26,Unknown,Cinnamon,Unknown
+27,Adult,Cinnamon,Black
+28,Adult,Gray,"Black, Cinnamon"
+29,Adult,Gray,"Black, Cinnamon, White"
+30,Unknown,Black,Unknown
+31,Adult,Gray,"Black, White"
+32,Unknown,Gray,"Cinnamon, White"
+33,Adult,Gray,White
+34,Adult,Cinnamon,Unknown
+35,Adult,Gray,Black
+36,Adult,Unknown,Unknown
+37,Adult,Black,Gray
+38,Unknown,Gray,Cinnamon
+39,Juvenile,Gray,White
+40,Juvenile,Gray,Black
+41,Juvenile,Black,Cinnamon
+42,?,Gray,Unknown
+43,Unknown,Gray,Unknown
+44,Adult,Black,White
+45,Juvenile,Cinnamon,Unknown
+46,Unknown,Cinnamon,Gray
+47,Juvenile,Gray,"Black, Cinnamon, White"
+48,Juvenile,Black,Unknown
+49,?,Unknown,Unknown
