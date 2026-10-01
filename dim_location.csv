@@ -1,0 +1,993 @@
+Location_ID,Hectare,Location,Specific_Location
+1,22F,Ground Plane,Unknown
+2,16C,Above Ground,Unknown
+3,08B,Ground Plane,hiding in bushes
+4,33C,Ground Plane,Unknown
+5,41B,Above Ground,Unknown
+6,15I,Ground Plane,Unknown
+7,13E,Ground Plane,Unknown
+8,04D,Above Ground,on tree facing downward
+9,10G,Ground Plane,Unknown
+10,38B,Above Ground,Unknown
+11,03B,Ground Plane,Unknown
+12,12F,Ground Plane,Unknown
+13,04D,Ground Plane,Unknown
+14,36F,Ground Plane,Unknown
+15,10F,Ground Plane,"Behind fence, grass"
+16,12E,Ground Plane,Unknown
+17,14D,Ground Plane,Unknown
+18,08A,Above Ground,fence
+19,28C,Ground Plane,Near rock
+20,08C,Ground Plane,Unknown
+21,10B,Above Ground,gingko tree by traffic light in front of Strawberry Fields
+22,10C,Ground Plane,Unknown
+23,07H,Above Ground,tree
+24,04B,Ground Plane,Unknown
+25,30B,Ground Plane,Unknown
+26,37G,Above Ground,Unknown
+27,22C,Above Ground,Unknown
+28,37B,Ground Plane,Unknown
+29,36I,Above Ground,Running down tree
+30,21E,Ground Plane,Unknown
+31,39F,Above Ground,lower branch of tree
+32,30E,Ground Plane,Unknown
+33,22I,Above Ground,Unknown
+34,06D,Ground Plane,Unknown
+35,15B,Ground Plane,Unknown
+36,40G,Ground Plane,Unknown
+37,07I,Ground Plane,Rock
+38,14H,Ground Plane,Unknown
+39,10B,Ground Plane,on lawn in front of a tree
+40,05F,Above Ground,rocks
+41,36B,Ground Plane,Unknown
+42,29D,Ground Plane,Rock a
+43,42D,Ground Plane,Unknown
+44,16B,Ground Plane,Unknown
+45,21H,Above Ground,Unknown
+46,05G,Ground Plane,Unknown
+47,02C,Ground Plane,Unknown
+48,07E,Ground Plane,On rocks
+49,14H,Above Ground,top of tree
+50,16C,Ground Plane,Unknown
+51,31I,Ground Plane,Unknown
+52,32H,Above Ground,Unknown
+53,09A,Ground Plane,Unknown
+54,03H,Ground Plane,Unknown
+55,32D,Above Ground,Unknown
+56,15I,Above Ground,Unknown
+57,19E,Ground Plane,Unknown
+58,35G,Above Ground,Unknown
+59,15C,Above Ground,Unknown
+60,34I,Ground Plane,in the playground.
+61,34B,Above Ground,Unknown
+62,02C,Above Ground,stay on side of trunk
+63,34A,Ground Plane,Unknown
+64,13E,Above Ground,hanging upside down to get a nut
+65,28C,Above Ground,Unknown
+66,07E,Ground Plane,Ground & Tree Base
+67,20C,Above Ground,Unknown
+68,21H,Ground Plane,Unknown
+69,14H,Above Ground,Unknown
+70,36C,Ground Plane,On rock
+71,41G,Ground Plane,Unknown
+72,39I,Ground Plane,Unknown
+73,05A,Above Ground,Unknown
+74,15A,Ground Plane,Unknown
+75,02D,Above Ground,up tree
+76,06G,Above Ground,in tree
+77,03F,Ground Plane,close to tall tree & light post
+78,23I,Ground Plane,Unknown
+79,29A,Ground Plane,Unknown
+80,06I,Ground Plane,Grass
+81,13A,Unknown,Unknown
+82,03D,Above Ground,tree
+83,19H,Ground Plane,near base of small tree
+84,36B,Above Ground,Unknown
+85,38C,Above Ground,Unknown
+86,39F,Above Ground,up/down tree
+87,18G,Above Ground,Unknown
+88,27I,Above Ground,Unknown
+89,17G,Above Ground,Unknown
+90,07C,Above Ground,Unknown
+91,33I,Above Ground,Unknown
+92,11F,Above Ground,Unknown
+93,25I,Above Ground,up in tree
+94,01I,Above Ground,tree
+95,04A,Ground Plane,At rock
+96,39A,Above Ground,Jumped from ground onto branch
+97,14I,Ground Plane,Unknown
+98,17I,Ground Plane,Running across fence between statue & swings
+99,15H,Above Ground,Unknown
+100,36C,Above Ground,Ground then tree to eat
+101,04G,Above Ground,Unknown
+102,08E,Ground Plane,in grass by a grove of tall maples
+103,18D,Above Ground,Unknown
+104,21B,Above Ground,Unknown
+105,01B,Above Ground,Unknown
+106,35A,Above Ground,in tree
+107,15B,Above Ground,in tree
+108,13B,Ground Plane,Unknown
+109,29B,Above Ground,climbing trees
+110,07B,Above Ground,on fence
+111,16F,Above Ground,Woods
+112,34G,Ground Plane,Unknown
+113,29D,Ground Plane,Rocky area
+114,27B,Ground Plane,By large tree
+115,32H,Ground Plane,Unknown
+116,31F,Above Ground,tree trunk
+117,05C,Above Ground,thin branch of tree
+118,21D,Above Ground,Unknown
+119,04C,Ground Plane,climbed up tree
+120,03D,Above Ground,up a tree
+121,07F,Above Ground,to tree
+122,10F,Ground Plane,"Under ""Grape Arbor"" structure behind Bandshell"
+123,31D,Above Ground,Ground then up tree
+124,30F,Above Ground,tree
+125,04D,Above Ground,on tree trunk
+126,21B,Unknown,Unknown
+127,28A,Ground Plane,Unknown
+128,08H,Above Ground,Unknown
+129,35C,Ground Plane,Unknown
+130,39C,Ground Plane,Unknown
+131,05F,Ground Plane,Unknown
+132,22B,Ground Plane,Under bench
+133,32H,Above Ground,in the European Beech
+134,10F,Above Ground,"Behind fence, tree"
+135,36A,Ground Plane,"""FIELD"""
+136,31A,Ground Plane,Unknown
+137,37D,Ground Plane,Unknown
+138,24B,Above Ground,Unknown
+139,13D,Ground Plane,Unknown
+140,40I,Ground Plane,Unknown
+141,11G,Above Ground,In the Woods/Brush
+142,18G,Ground Plane,Unknown
+143,06F,Above Ground,Unknown
+144,33G,Above Ground,shelter in hole in tree
+145,05D,Ground Plane,Unknown
+146,13C,Ground Plane,Unknown
+147,32C,Ground Plane,Unknown
+148,22C,Ground Plane,Unknown
+149,16D,Ground Plane,Unknown
+150,06D,Ground Plane,Baseball field
+151,02H,Ground Plane,Unknown
+152,32E,Ground Plane,treed area
+153,06F,Ground Plane,Unknown
+154,26I,Ground Plane,Unknown
+155,23D,Above Ground,Unknown
+156,05A,Ground Plane,Unknown
+157,15E,Above Ground,Unknown
+158,10I,Ground Plane,Unknown
+159,19H,Ground Plane,near a brush
+160,22A,Ground Plane,Unknown
+161,17E,Ground Plane,Unknown
+162,18D,Ground Plane,Unknown
+163,37G,Unknown,Unknown
+164,20D,Ground Plane,Unknown
+165,33D,Above Ground,Unknown
+166,08E,Ground Plane,by tree trunk base
+167,01B,Ground Plane,Unknown
+168,09B,Above Ground,Unknown
+169,36C,Ground Plane,Running across wide street
+170,34H,Above Ground,tree
+171,12H,Unknown,Unknown
+172,31E,Ground Plane,under bushes
+173,06F,Unknown,Unknown
+174,36D,Ground Plane,Unknown
+175,04B,Above Ground,Unknown
+176,36A,Above Ground,Unknown
+177,16H,Ground Plane,Unknown
+178,09D,Ground Plane,Unknown
+179,40G,Above Ground,Unknown
+180,11A,Ground Plane,Unknown
+181,38E,Above Ground,branches
+182,14C,Ground Plane,Unknown
+183,42C,Ground Plane,Unknown
+184,26B,Ground Plane,running across bridle path
+185,01F,Ground Plane,Unknown
+186,14G,Above Ground,Unknown
+187,28D,Above Ground,Unknown
+188,13E,Above Ground,on/in log
+189,33B,Ground Plane,Unknown
+190,38I,Ground Plane,Unknown
+191,33D,Ground Plane,Unknown
+192,17E,Above Ground,Tree trunk
+193,02I,Ground Plane,Unknown
+194,12G,Above Ground,Unknown
+195,03A,Above Ground,Unknown
+196,39F,Ground Plane,Unknown
+197,35G,Ground Plane,Unknown
+198,17I,Above Ground,Unknown
+199,42A,Ground Plane,Unknown
+200,17B,Ground Plane,Unknown
+201,30C,Ground Plane,on a rock
+202,37A,Ground Plane,Unknown
+203,37H,Ground Plane,Right behind fence of the conservatory
+204,02G,Ground Plane,Unknown
+205,15H,Ground Plane,edge of landscape
+206,07H,Unknown,Unknown
+207,35H,Above Ground,Sitting on tree limb
+208,24A,Above Ground,in tree
+209,17E,Ground Plane,Shore
+210,32E,Ground Plane,rocky outcrop
+211,39D,Above Ground,on rock
+212,30A,Ground Plane,Rock
+213,17G,Above Ground,tree & ground
+214,38I,Ground Plane,on the lawn East of the fountain
+215,22B,Above Ground,Unknown
+216,22F,Unknown,Unknown
+217,32E,Above Ground,on tennis club house roof
+218,12D,Ground Plane,Unknown
+219,40D,Above Ground,Unknown
+220,26I,Above Ground,Unknown
+221,06B,Ground Plane,by bike racks at Tavern on the Green
+222,39F,Above Ground,tree
+223,35B,Ground Plane,Unknown
+224,36C,Ground Plane,Crossing path
+225,05G,Above Ground,Unknown
+226,22G,Above Ground,Unknown
+227,25I,Above Ground,Unknown
+228,34A,Above Ground,chasing from tree to ground
+229,14C,Above Ground,Unknown
+230,03F,Ground Plane,on a rock
+231,21E,Above Ground,in tree
+232,10A,Ground Plane,near Strawberry Fields
+233,12H,Ground Plane,grass field
+234,40B,Above Ground,Unknown
+235,01I,Ground Plane,Unknown
+236,17A,Ground Plane,Unknown
+237,05E,Above Ground,oak tree at end of ramp from Chess House
+238,21A,Ground Plane,Tree & ground
+239,37G,Ground Plane,ran under dumpster w/ nut
+240,13H,Above Ground,Unknown
+241,37I,Above Ground,Unknown
+242,05E,Above Ground,up a tree
+243,42D,Above Ground,Unknown
+244,30H,Ground Plane,Unknown
+245,37D,Above Ground,Unknown
+246,09C,Above Ground,Unknown
+247,11E,Above Ground,Unknown
+248,06F,Above Ground,top of tree
+249,10E,Above Ground,Unknown
+250,07F,Ground Plane,under bench
+251,25B,Ground Plane,Unknown
+252,22A,Above Ground,on fence
+253,13F,Above Ground,tree trunk
+254,02A,Above Ground,on trunk
+255,07H,Ground Plane,middle of grass
+256,09I,Unknown,Unknown
+257,07I,Ground Plane,Bench
+258,20F,Above Ground,in tree
+259,02A,Above Ground,in tall planetree
+260,38H,Ground Plane,Unknown
+261,42F,Unknown,Unknown
+262,05A,Above Ground,Oak tree near rock outcropping
+263,06C,Above Ground,Across Transverse
+264,14E,Ground Plane,Unknown
+265,17F,Above Ground,Unknown
+266,29C,Ground Plane,Unknown
+267,34F,Above Ground,Unknown
+268,35C,Above Ground,Unknown
+269,41D,Ground Plane,Unknown
+270,32E,Above Ground,bottom of tree
+271,42G,Ground Plane,Unknown
+272,05C,Above Ground,way up a tree!
+273,38B,Ground Plane,Unknown
+274,02F,Ground Plane,Unknown
+275,14E,Above Ground,Unknown
+276,39A,Ground Plane,Unknown
+277,21G,Above Ground,Unknown
+278,06G,Ground Plane,Unknown
+279,07F,Above Ground,Unknown
+280,31F,Ground Plane,Unknown
+281,33I,Above Ground,98th @ edge of park
+282,37I,Ground Plane,Unknown
+283,13C,Above Ground,Unknown
+284,15A,Above Ground,Unknown
+285,01G,Above Ground,Unknown
+286,12G,Ground Plane,Unknown
+287,32I,Ground Plane,Unknown
+288,35E,Above Ground,Unknown
+289,10G,Above Ground,Unknown
+290,27A,Above Ground,on a tree
+291,11F,Ground Plane,Unknown
+292,30B,Above Ground,Unknown
+293,32I,Above Ground,Unknown
+294,31G,Above Ground,Unknown
+295,40C,Ground Plane,Unknown
+296,13H,Ground Plane,in glen
+297,30D,Ground Plane,Unknown
+298,12G,Unknown,Unknown
+299,01D,Ground Plane,Unknown
+300,13B,Above Ground,on railing
+301,04A,Ground Plane,by rock
+302,41I,Ground Plane,Unknown
+303,42D,Above Ground,in tree
+304,13I,Above Ground,climbed tree
+305,41E,Above Ground,tree
+306,37H,Ground Plane,tree
+307,23E,Above Ground,on a tree
+308,06D,Above Ground,Unknown
+309,42I,Ground Plane,Unknown
+310,22F,Above Ground,Unknown
+311,18H,Ground Plane,Unknown
+312,15I,Above Ground,on fence
+313,17A,Above Ground,ground & tree
+314,09E,Ground Plane,Unknown
+315,07H,Ground Plane,by tree
+316,39D,Above Ground,Unknown
+317,32F,Above Ground,Unknown
+318,15H,Ground Plane,along bottom of rock outcropping
+319,30C,Ground Plane,Unknown
+320,08B,Above Ground,Unknown
+321,04H,Ground Plane,Unknown
+322,07B,Above Ground,Unknown
+323,03F,Ground Plane,Unknown
+324,33G,Above Ground,Unknown
+325,20F,Above Ground,Unknown
+326,20G,Above Ground,Ran up tree
+327,10D,Above Ground,Unknown
+328,08D,Above Ground,Unknown
+329,29C,Above Ground,Unknown
+330,31B,Ground Plane,Unknown
+331,11H,Above Ground,Unknown
+332,32B,Above Ground,ran up a tree
+333,01E,Ground Plane,Unknown
+334,40G,Above Ground,large tree
+335,08A,Ground Plane,playground
+336,13F,Above Ground,Unknown
+337,23A,Above Ground,Tree
+338,01A,Ground Plane,Unknown
+339,03G,Above Ground,Unknown
+340,08H,Above Ground,root bed of tree
+341,35D,Above Ground,Unknown
+342,37I,Above Ground,in tree
+343,41E,Ground Plane,rubbing belly on ground
+344,06I,Ground Plane,Bushes
+345,07F,Ground Plane,bush
+346,12G,Ground Plane,bushes
+347,03C,Above Ground,Unknown
+348,10C,Above Ground,Unknown
+349,06E,Ground Plane,along dirt path by cross-town car road. saw movement in a shrub/then caught sight a little fluffy tail
+350,15D,Unknown,Unknown
+351,34F,Ground Plane,Unknown
+352,28B,Ground Plane,Unknown
+353,39E,Ground Plane,Unknown
+354,39G,Above Ground,Unknown
+355,18F,Ground Plane,Unknown
+356,15E,Above Ground,on fallen log
+357,42C,Above Ground,Unknown
+358,06B,Ground Plane,"Started in field, crossed busy street, ran up tree"
+359,21E,Above Ground,Unknown
+360,36I,Above Ground,Unknown
+361,07I,Ground Plane,Grass
+362,02C,Unknown,Unknown
+363,12G,Above Ground,in tree
+364,03E,Above Ground,Unknown
+365,07F,Above Ground,in hole in tree
+366,19D,Above Ground,Unknown
+367,08I,Above Ground,bush
+368,34I,Ground Plane,across the lawn and climb up a small tree
+369,13G,Above Ground,willow oak tree
+370,29D,Ground Plane,Unknown
+371,40F,Ground Plane,Unknown
+372,37B,Unknown,Unknown
+373,19G,Above Ground,Unknown
+374,19A,Above Ground,Unknown
+375,18H,Ground Plane,Running from one tree to the other
+376,05I,Above Ground,Unknown
+377,25I,Above Ground,on tree
+378,16I,Above Ground,Unknown
+379,12F,Above Ground,Tree
+380,10E,Ground Plane,Unknown
+381,23I,Above Ground,Unknown
+382,31H,Above Ground,Also way up
+383,37E,Above Ground,"unsure, just heard kuks"
+384,42C,Ground Plane,Between park and main drag
+385,01I,Above Ground,on ledge
+386,05A,Above Ground,in tall shrubs near wall next to CPW
+387,03F,Ground Plane,on the path
+388,09C,Ground Plane,on top of tarped sand pile
+389,20A,Above Ground,Unknown
+390,37F,Unknown,Unknown
+391,32E,Unknown,Unknown
+392,11H,Unknown,Unknown
+393,36H,Ground Plane,Unknown
+394,20B,Ground Plane,Unknown
+395,32F,Ground Plane,Unknown
+396,25A,Ground Plane,Unknown
+397,39G,Ground Plane,Unknown
+398,07E,Ground Plane,under a tree
+399,18A,Above Ground,Unknown
+400,17E,Above Ground,Branch
+401,06G,Ground Plane,bush
+402,03A,Ground Plane,Unknown
+403,23C,Above Ground,Unknown
+404,15G,Above Ground,Unknown
+405,42C,Unknown,Unknown
+406,07H,Above Ground,on tree knob
+407,41B,Above Ground,Climbing tree
+408,19B,Above Ground,Unknown
+409,35E,Ground Plane,Unknown
+410,07F,Ground Plane,Unknown
+411,02F,Ground Plane,walking along path
+412,42H,Ground Plane,Unknown
+413,22B,Ground Plane,Unknown
+414,22D,Ground Plane,Unknown
+415,12C,Ground Plane,Unknown
+416,32B,Ground Plane,Unknown
+417,09B,Ground Plane,Unknown
+418,01B,Above Ground,on tree trunk
+419,37C,Unknown,Unknown
+420,33B,Above Ground,Unknown
+421,20A,Ground Plane,Unknown
+422,12A,Above Ground,Unknown
+423,20C,Ground Plane,Unknown
+424,36E,Ground Plane,Unknown
+425,10F,Ground Plane,Grassy area
+426,01H,Ground Plane,Unknown
+427,11E,Ground Plane,Unknown
+428,26A,Above Ground,Unknown
+429,38A,Ground Plane,Unknown
+430,22G,Ground Plane,Unknown
+431,27I,Ground Plane,Unknown
+432,08I,Ground Plane,Unknown
+433,24A,Ground Plane,Unknown
+434,42B,Ground Plane,Unknown
+435,30A,Above Ground,Unknown
+436,36G,Ground Plane,Unknown
+437,33C,Above Ground,tree branches
+438,09I,Above Ground,ran up tree
+439,31D,Ground Plane,Undergrowth
+440,28I,Ground Plane,Jumped onto path & then back into brush
+441,41E,Ground Plane,Unknown
+442,30I,Ground Plane,Unknown
+443,09I,Above Ground,Unknown
+444,17D,Above Ground,"high in tree, couldn't see it, only heard it"
+445,40G,Ground Plane,along the road
+446,14A,Above Ground,Unknown
+447,22C,Above Ground,on tree
+448,25A,Above Ground,tree
+449,37F,Ground Plane,LAWN
+450,37H,Above Ground,tree
+451,33A,Above Ground,Unknown
+452,11I,Above Ground,Unknown
+453,36H,Above Ground,Unknown
+454,09E,Ground Plane,Gathering/digging in grassy area b/w trees
+455,38E,Ground Plane,running on rocks
+456,15B,Above Ground,Unknown
+457,17E,Above Ground,Fence
+458,27I,Unknown,Unknown
+459,20B,Above Ground,Unknown
+460,13D,Above Ground,Unknown
+461,14F,Above Ground,on a fallen branch
+462,25A,Ground Plane,CROSS BRIDLE - INTO TREE TO AVOID DOGGO
+463,04I,Above Ground,Tree
+464,16E,Above Ground,Unknown
+465,22E,Ground Plane,Unknown
+466,25I,Ground Plane,Unknown
+467,39I,Ground Plane,along the road
+468,04D,Above Ground,Unknown
+469,34E,Ground Plane,Unknown
+470,06I,Ground Plane,"Flowers, grass"
+471,32E,Above Ground,literally fell to ground from 50 feet up
+472,01E,Above Ground,Unknown
+473,01B,Above Ground,in tree
+474,35C,Above Ground,(white oak)
+475,42B,Above Ground,Unknown
+476,14F,Unknown,Unknown
+477,19C,Above Ground,Climbed fence
+478,36A,Ground Plane,ON ROCK NEAR POND
+479,08I,Above Ground,Unknown
+480,38E,Above Ground,over a log across stream
+481,13A,Ground Plane,Unknown
+482,07I,Ground Plane,Under the tree
+483,07H,Ground Plane,on rock (large)
+484,19D,Above Ground,on branch of dead tree
+485,03B,Unknown,Unknown
+486,42E,Above Ground,in tree
+487,03H,Ground Plane,under a parked car
+488,03I,Above Ground,Unknown
+489,16H,Above Ground,tree
+490,28I,Above Ground,Unknown
+491,22A,Above Ground,Unknown
+492,14I,Above Ground,Fallen branch
+493,05I,Ground Plane,crossing pavement in front of arsenal
+494,31F,Above Ground,Unknown
+495,35I,Ground Plane,Unknown
+496,15H,Ground Plane,base of gingko tree
+497,29D,Above Ground,End of tree limb foraging
+498,31B,Unknown,Unknown
+499,13E,Ground Plane,on rock
+500,22F,Above Ground,CLIMBED THE TREE
+501,36I,Ground Plane,Unknown
+502,05C,Ground Plane,Unknown
+503,12B,Ground Plane,Unknown
+504,31H,Above Ground,Unknown
+505,14F,Ground Plane,Unknown
+506,06I,Ground Plane,Unknown
+507,38G,Ground Plane,Unknown
+508,32D,Ground Plane,Unknown
+509,07G,Above Ground,Unknown
+510,07B,Ground Plane,Unknown
+511,40A,Ground Plane,bottom of great hill
+512,10B,Ground Plane,Unknown
+513,35D,Ground Plane,Unknown
+514,16E,Ground Plane,Unknown
+515,13A,Above Ground,Unknown
+516,10F,Ground Plane,Unknown
+517,18C,Ground Plane,Unknown
+518,42G,Above Ground,on fence
+519,32E,Ground Plane,Unknown
+520,14A,Ground Plane,Unknown
+521,15F,Above Ground,on fence
+522,04E,Above Ground,Unknown
+523,10A,Ground Plane,Bridle Path lawn
+524,06A,Above Ground,tree
+525,34I,Above Ground,Unknown
+526,37G,Ground Plane,Unknown
+527,33E,Ground Plane,Unknown
+528,08E,Ground Plane,Unknown
+529,22D,Above Ground,Unknown
+530,07H,Ground Plane,Unknown
+531,09C,Ground Plane,Unknown
+532,19G,Ground Plane,Unknown
+533,08I,Above Ground,tree
+534,23C,Ground Plane,"in bushes, then ran across path"
+535,12H,Above Ground,in tree
+536,08G,Ground Plane,Unknown
+537,34I,Unknown,Unknown
+538,26A,Ground Plane,Unknown
+539,04E,Unknown,Unknown
+540,03H,Above Ground,Unknown
+541,17C,Ground Plane,then perched on 2-ft high border fencing
+542,04C,Ground Plane,Unknown
+543,09A,Ground Plane,by large tree in sectioned off area
+544,13G,Above Ground,maple tree
+545,09H,Ground Plane,Unknown
+546,31D,Ground Plane,Unknown
+547,17D,Ground Plane,Unknown
+548,07A,Above Ground,"in trees, then to ground"
+549,03F,Ground Plane,just to right when enter sanctuary
+550,11C,Above Ground,Unknown
+551,09A,Unknown,Unknown
+552,22H,Ground Plane,Unknown
+553,09I,Ground Plane,Unknown
+554,02A,Above Ground,in tree!
+555,42E,Unknown,Unknown
+556,06G,Above Ground,tree
+557,10A,Ground Plane,in the bushes beneath a tree
+558,06C,Above Ground,Unknown
+559,23F,Ground Plane,Unknown
+560,18A,Above Ground,tree
+561,36C,Ground Plane,Unknown
+562,06E,Ground Plane,Unknown
+563,40H,Ground Plane,Unknown
+564,01B,Ground Plane,Tree to ground
+565,21E,Above Ground,Climbs small tree
+566,31C,Above Ground,Unknown
+567,41F,Unknown,Unknown
+568,33A,Ground Plane,Unknown
+569,15D,Above Ground,Unknown
+570,16F,Ground Plane,Pine tree near utility shed
+571,34B,Ground Plane,Unknown
+572,08C,Ground Plane,"behind fence, safe"
+573,08D,Unknown,Unknown
+574,42I,Above Ground,Unknown
+575,07E,Above Ground,in tree
+576,36E,Above Ground,on tree branch
+577,27B,Ground Plane,By large tree chasing #1
+578,04A,Ground Plane,Unknown
+579,10F,Above Ground,Same tree (as #6)
+580,05H,Unknown,Unknown
+581,13E,Ground Plane,in middle of path
+582,20G,Ground Plane,Unknown
+583,09H,Unknown,Unknown
+584,33A,Above Ground,Tree cavity [of] London Plane tree
+585,38C,Above Ground,Between ground & tree
+586,09F,Above Ground,Unknown
+587,40A,Above Ground,Unknown
+588,22H,Above Ground,low branch
+589,38I,Ground Plane,hanging out w/ Squirrel #1
+590,35F,Above Ground,Unknown
+591,09E,Ground Plane,underneath a tree
+592,02F,Above Ground,Unknown
+593,19E,Ground Plane,Baseball field #3
+594,37A,Above Ground,Unknown
+595,17A,Above Ground,tree
+596,16A,Above Ground,Unknown
+597,31E,Above Ground,Unknown
+598,03H,Above Ground,building nest
+599,17H,Above Ground,Unknown
+600,36C,Ground Plane,Ran across path in front of people
+601,07I,Ground Plane,Trash bins
+602,29D,Above Ground,Unknown
+603,04A,Ground Plane,A rock
+604,39F,Above Ground,rocks
+605,15B,Ground Plane,on hill
+606,35C,Unknown,Unknown
+607,38E,Ground Plane,edge of the stream
+608,04D,Unknown,Unknown
+609,32E,Above Ground,tree top
+610,05E,Above Ground,on fence
+611,40F,Above Ground,Unknown
+612,34A,Above Ground,Unknown
+613,04D,Above Ground,climbed the fence & posed for a picture
+614,32A,Ground Plane,Base of tree
+615,40A,Ground Plane,edge of park at 108th West
+616,21C,Ground Plane,Unknown
+617,11D,Above Ground,Unknown
+618,16I,Ground Plane,Unknown
+619,33H,Ground Plane,Unknown
+620,02B,Ground Plane,Unknown
+621,19D,Ground Plane,Unknown
+622,40B,Ground Plane,Unknown
+623,03E,Ground Plane,Unknown
+624,13F,Unknown,Unknown
+625,22A,Above Ground,trash can
+626,10F,Above Ground,Unknown
+627,05A,Ground Plane,near 65th St arch
+628,07F,Above Ground,tree
+629,40D,Ground Plane,Unknown
+630,21D,Ground Plane,Unknown
+631,09F,Ground Plane,Unknown
+632,32G,Ground Plane,Unknown
+633,15D,Ground Plane,Unknown
+634,39H,Ground Plane,Unknown
+635,20F,Ground Plane,Unknown
+636,09G,Ground Plane,Unknown
+637,40E,Ground Plane,Unknown
+638,03B,Above Ground,Unknown
+639,17H,Ground Plane,Unknown
+640,15H,Ground Plane,lawn moving east over Park path
+641,05D,Above Ground,Unknown
+642,05C,Above Ground,Unknown
+643,02D,Above Ground,Unknown
+644,39B,Above Ground,Unknown
+645,40A,Ground Plane,bottom great hill
+646,02D,Ground Plane,Unknown
+647,03C,Ground Plane,Unknown
+648,03D,Ground Plane,on top [of] a big rock/boulder in the area
+649,08B,Ground Plane,Unknown
+650,08H,Ground Plane,Unknown
+651,19F,Above Ground,Unknown
+652,33I,Ground Plane,Unknown
+653,41C,Above Ground,Unknown
+654,34D,Above Ground,Unknown
+655,10H,Ground Plane,Unknown
+656,01C,Ground Plane,Unknown
+657,21G,Above Ground,fence
+658,22F,Above Ground,tree
+659,19F,Ground Plane,Unknown
+660,18F,Above Ground,Low tree
+661,12E,Above Ground,Unknown
+662,35D,Above Ground,"on tree, blue jays gathering nearby"
+663,16E,Above Ground,In tree
+664,39B,Ground Plane,Unknown
+665,03F,Ground Plane,in grass by light post
+666,38E,Ground Plane,THICK UNDERGROWTH
+667,17E,Ground Plane,Pond area
+668,08A,Ground Plane,Unknown
+669,41E,Above Ground,Unknown
+670,02A,Above Ground,perched on small fence
+671,05I,Ground Plane,Unknown
+672,34E,Above Ground,Unknown
+673,07H,Ground Plane,"Ran across path to eat behind fence, next to the fence."
+674,35F,Ground Plane,Unknown
+675,04I,Ground Plane,Unknown
+676,08D,Ground Plane,Unknown
+677,04C,Above Ground,on tree
+678,10F,Above Ground,Different tree
+679,23B,Above Ground,chain link fence
+680,14F,Above Ground,Unknown
+681,17G,Ground Plane,Unknown
+682,15G,Ground Plane,Unknown
+683,41C,Ground Plane,Unknown
+684,35D,Above Ground,tree
+685,36C,Ground Plane,Clearing near bike path (bikes active)
+686,17F,Ground Plane,Unknown
+687,10D,Ground Plane,Unknown
+688,32C,Above Ground,Unknown
+689,16I,Above Ground,tree hollow
+690,10H,Above Ground,Unknown
+691,13F,Above Ground,tree
+692,07C,Ground Plane,Unknown
+693,37H,Ground Plane,Unknown
+694,25I,Above Ground,on bar
+695,04D,Ground Plane,hopped over fence and chased # 6 around tree & ran it to end of lawn
+696,32A,Above Ground,Unknown
+697,07A,Above Ground,Unknown
+698,36A,Ground Plane,Unknown
+699,41B,Ground Plane,Unknown
+700,05B,Above Ground,Unknown
+701,06E,Ground Plane,small open area but w/ 7 large oak trees
+702,37H,Above Ground,Large tree by (fence of the conservatory) about to climb up
+703,06C,Above Ground,another tree
+704,32B,Above Ground,in tree
+705,15C,Ground Plane,Unknown
+706,13G,Ground Plane,lawn @ edge of landscaped area
+707,05F,Above Ground,fence
+708,24I,Above Ground,Unknown
+709,06I,Above Ground,Unknown
+710,34C,Ground Plane,Unknown
+711,18H,Above Ground,Tree
+712,42H,Above Ground,Unknown
+713,14B,Above Ground,running up and down
+714,16F,Ground Plane,Big rock in meadow
+715,39F,Above Ground,in tree
+716,30E,Above Ground,Unknown
+717,05E,Above Ground,trellis
+718,18E,Ground Plane,Unknown
+719,34I,Ground Plane,Unknown
+720,15F,Ground Plane,on path
+721,20G,Above Ground,Tree limb
+722,06G,Ground Plane,grass
+723,34G,Above Ground,Unknown
+724,15H,Ground Plane,lawn
+725,08B,Above Ground,tree
+726,09C,Above Ground,Tree
+727,03F,Above Ground,Unknown
+728,01G,Ground Plane,Unknown
+729,18F,Ground Plane,In small tree by water
+730,17D,Above Ground,Unknown
+731,40C,Unknown,Unknown
+732,31H,Above Ground,"no clue, way up a tree!"
+733,36F,Above Ground,Unknown
+734,16F,Ground Plane,road
+735,01D,Above Ground,Unknown
+736,33I,Ground Plane,edge of park @ 98th (north)
+737,15G,Above Ground,on a log
+738,08E,Ground Plane,in between 2 trees
+739,33I,Above Ground,edge of park @ 98th
+740,07F,Above Ground,next to the hole of #6
+741,38D,Above Ground,Unknown
+742,16F,Above Ground,Unknown
+743,12A,Ground Plane,Unknown
+744,10F,Ground Plane,Across Arbor path into hill w/ bushes
+745,23B,Above Ground,Unknown
+746,16G,Above Ground,Unknown
+747,08A,Ground Plane,trail
+748,17A,Above Ground,on a little pedestal-shaped part of a tree
+749,02A,Above Ground,climbing in bush
+750,05F,Above Ground,tree
+751,05E,Above Ground,on a checker table
+752,12F,Unknown,Unknown
+753,41B,Unknown,Unknown
+754,34H,Ground Plane,in grass
+755,01G,Unknown,Unknown
+756,28B,Above Ground,in a tree
+757,13E,Above Ground,on tree stump
+758,33F,Ground Plane,Unknown
+759,12I,Ground Plane,on tree roots
+760,15E,Ground Plane,Unknown
+761,17C,Ground Plane,Unknown
+762,38C,Ground Plane,Unknown
+763,13H,Above Ground,tree
+764,05E,Ground Plane,Unknown
+765,11B,Ground Plane,Unknown
+766,16E,Ground Plane,On a rock
+767,16G,Ground Plane,Unknown
+768,21G,Ground Plane,Unknown
+769,38F,Ground Plane,Unknown
+770,37E,Ground Plane,Unknown
+771,03B,Above Ground,in tree
+772,07A,Above Ground,in tree
+773,38E,Ground Plane,Unknown
+774,06H,Ground Plane,Unknown
+775,39C,Above Ground,Unknown
+776,09G,Above Ground,Unknown
+777,23F,Above Ground,Unknown
+778,10B,Above Ground,High in a tree
+779,35D,Unknown,Unknown
+780,37F,Ground Plane,Unknown
+781,31D,Above Ground,Unknown
+782,03G,Ground Plane,Unknown
+783,38A,Above Ground,Unknown
+784,13H,Ground Plane,Unknown
+785,08F,Above Ground,Unknown
+786,06B,Ground Plane,Unknown
+787,37H,Above Ground,in a tree with red berries
+788,02E,Ground Plane,Unknown
+789,15F,Above Ground,Unknown
+790,11G,Ground Plane,Unknown
+791,16F,Ground Plane,Woods
+792,28D,Ground Plane,Unknown
+793,27I,Above Ground,In tree
+794,14I,Above Ground,Unknown
+795,29B,Ground Plane,Unknown
+796,12D,Above Ground,Unknown
+797,32B,Above Ground,Unknown
+798,21F,Above Ground,Unknown
+799,33E,Above Ground,Unknown
+800,02C,Above Ground,Unknown
+801,04I,Above Ground,ran to tree
+802,11I,Ground Plane,Unknown
+803,08E,Ground Plane,"5, 6, 7 all at same tree trunk base"
+804,21F,Ground Plane,Unknown
+805,06A,Ground Plane,Unknown
+806,40A,Ground Plane,Unknown
+807,36B,Above Ground,Moved 20+ feet high above top of tree limb
+808,15C,Above Ground,running across overpass
+809,25A,Above Ground,BIG TREE
+810,14B,Ground Plane,Unknown
+811,09A,Ground Plane,foot of tree
+812,01A,Above Ground,Unknown
+813,42G,Above Ground,Unknown
+814,06A,Ground Plane,elevated ground
+815,41D,Above Ground,Unknown
+816,37C,Ground Plane,Unknown
+817,21A,Ground Plane,Unknown
+818,07E,Ground Plane,Unknown
+819,40C,Ground Plane,By the main road
+820,04G,Ground Plane,Unknown
+821,15E,Above Ground,on fallen tree
+822,23B,Ground Plane,Unknown
+823,15D,Above Ground,on fence
+824,36A,Ground Plane,EDGE OF WOODS
+825,34D,Ground Plane,Unknown
+826,14D,Above Ground,Unknown
+827,34H,Ground Plane,Unknown
+828,02E,Above Ground,Unknown
+829,12F,Above Ground,Unknown
+830,27A,Above Ground,Unknown
+831,26I,Above Ground,tree
+832,10F,Ground Plane,Arbor path & hill w/ bushes
+833,25I,Above Ground,playing very high in tree w/ #8
+834,17B,Above Ground,climbed a fence
+835,36A,Ground Plane,THICK UNDERGROWTH
+836,34H,Above Ground,Elm tree
+837,06C,Ground Plane,Unknown
+838,05B,Ground Plane,Unknown
+839,39G,Above Ground,Tree
+840,15H,Above Ground,Oak tree
+841,23I,Above Ground,on a tree
+842,40I,Above Ground,Unknown
+843,13F,Ground Plane,Unknown
+844,28B,Above Ground,Unknown
+845,35I,Above Ground,Unknown
+846,37E,Above Ground,Unknown
+847,22B,Above Ground,tree
+848,21A,Above Ground,Unknown
+849,10A,Above Ground,above my head in tree
+850,35A,Ground Plane,In the weeds by the pool
+851,10H,Above Ground,in tree
+852,06H,Above Ground,Fence pole
+853,40H,Ground Plane,base of tree
+854,02B,Above Ground,Unknown
+855,05E,Above Ground,Unknown
+856,35H,Above Ground,Climbing up tree
+857,04C,Above Ground,Unknown
+858,34H,Above Ground,Unknown
+859,42C,Ground Plane,Crossing street
+860,09B,Above Ground,tree
+861,20F,Above Ground,climbed tree
+862,01B,Above Ground,Dog chased up tree
+863,36G,Above Ground,Unknown
+864,18F,Unknown,Unknown
+865,40A,Above Ground,bottom of great hill
+866,33G,Ground Plane,Unknown
+867,19H,Ground Plane,Unknown
+868,35B,Ground Plane,landscaped area
+869,07I,Above Ground,Unknown
+870,06G,Above Ground,branch
+871,37B,Above Ground,Unknown
+872,10B,Above Ground,In tree
+873,40C,Ground Plane,By The Road
+874,17E,Above Ground,Shore
+875,20E,Ground Plane,Unknown
+876,08H,Above Ground,fence
+877,02C,Ground Plane,right at the base of the same tree as #3
+878,34H,Ground Plane,Under Tupelo Tree
+879,03B,Above Ground,At fence
+880,03B,Above Ground,on rock
+881,15B,Ground Plane,by water
+882,42H,Unknown,Unknown
+883,11B,Above Ground,Unknown
+884,07H,Above Ground,Unknown
+885,32A,Ground Plane,Unknown
+886,29I,Ground Plane,Unknown
+887,10A,Ground Plane,in b/w trees
+888,32E,Above Ground,Unknown
+889,15F,Ground Plane,Unknown
+890,29H,Above Ground,Unknown
+891,35A,Ground Plane,Unknown
+892,28C,Ground Plane,Unknown
+893,19C,Ground Plane,Unknown
+894,42E,Ground Plane,Unknown
+895,10A,Above Ground,tree near large rock on Bridle Path
+896,15I,Above Ground,tree
+897,35B,Ground Plane,lawn
+898,41A,Ground Plane,Unknown
+899,26A,Ground Plane,Tree 90th left 90th & 89
+900,07G,Ground Plane,Unknown
+901,03D,Ground Plane,Unknown
+902,19B,Ground Plane,Unknown
+903,04G,Above Ground,tree
+904,14G,Ground Plane,Unknown
+905,05I,Above Ground,in tree by arsenal - climbing
+906,04E,Ground Plane,Unknown
+907,38D,Ground Plane,Unknown
+908,09A,Above Ground,Unknown
+909,32I,Above Ground,In and below shrub
+910,04F,Ground Plane,Unknown
+911,35D,Above Ground,bench
+912,03I,Ground Plane,Unknown
+913,10A,Ground Plane,Unknown
+914,16A,Ground Plane,Unknown
+915,08B,Above Ground,on a bench
+916,08F,Ground Plane,Unknown
+917,18I,Ground Plane,Unknown
+918,14D,Unknown,Unknown
+919,05E,Above Ground,went up tree
+920,42F,Ground Plane,Unknown
+921,18I,Above Ground,Unknown
+922,27A,Ground Plane,Unknown
+923,07D,Ground Plane,outside fenced hectare
+924,04C,Ground Plane,behind playground benches
+925,16D,Above Ground,Unknown
+926,11H,Ground Plane,Unknown
+927,41A,Above Ground,Unknown
+928,22D,Unknown,Unknown
+929,11D,Ground Plane,Unknown
+930,18C,Above Ground,Unknown
+931,21B,Ground Plane,Unknown
+932,12B,Ground Plane,Climbing up rocks
+933,17I,Ground Plane,Unknown
+934,02A,Ground Plane,Unknown
+935,15H,Above Ground,oak tree
+936,22I,Ground Plane,Unknown
+937,32G,Above Ground,Unknown
+938,19A,Ground Plane,Unknown
+939,16F,Ground Plane,near fence
+940,12D,Above Ground,Was on top of the edge of Bow Bridge
+941,02F,Above Ground,in tree
+942,29B,Above Ground,Unknown
+943,31B,Above Ground,Unknown
+944,25I,Above Ground,playing very high in tree w/ #7
+945,07H,Ground Plane,in grass
+946,04C,Above Ground,on stone arch
+947,17C,Above Ground,in a tree
+948,21C,Above Ground,Unknown
+949,07I,Ground Plane,Construction materials
+950,03D,Above Ground,Unknown
+951,01F,Above Ground,Unknown
+952,39D,Ground Plane,Unknown
+953,28A,Unknown,Unknown
+954,17E,Ground Plane,On the rock
+955,20G,Above Ground,in tree
+956,05D,Above Ground,On low fence
+957,23H,Ground Plane,Unknown
+958,40E,Ground Plane,on rocks/bushy rocks
+959,05F,Above Ground,branch
+960,23A,Ground Plane,Unknown
+961,33B,Above Ground,running up tree
+962,09B,Above Ground,in bush
+963,38E,Ground Plane,on log
+964,08E,Above Ground,in tree
+965,31E,Ground Plane,Unknown
+966,22H,Above Ground,chased squirrel #2 away
+967,12H,Ground Plane,Unknown
+968,36F,Ground Plane,Near rock
+969,17B,Above Ground,Unknown
+970,30A,Ground Plane,Unknown
+971,02I,Above Ground,Sitting on back of bench with food hanging from mouth
+972,17G,Ground Plane,base of tree
+973,08A,Above Ground,Unknown
+974,16E,Above Ground,On trunk
+975,13E,Above Ground,Unknown
+976,25I,Above Ground,"on turn, see map"
+977,39D,Above Ground,on tree trunk (descending from height of ~10 ft)
+978,31D,Ground Plane,Crossing path to tree
+979,15B,Ground Plane,tree
+980,34C,Above Ground,Unknown
+981,03F,Above Ground,on fence
+982,10F,Above Ground,"Behind fence, tree trunk"
+983,30H,Above Ground,Unknown
+984,37F,Above Ground,Unknown
+985,11G,Ground Plane,Near Summerstage
+986,42H,Above Ground,Running along stone ledge
+987,31D,Ground Plane,Open ground
+988,06D,Ground Plane,by carousel
+989,14B,Unknown,Unknown
+990,04I,Above Ground,On top of park lamp
+991,22E,Above Ground,Unknown
+992,02A,Ground Plane,base of tree with ~ 30 small birds all eating
