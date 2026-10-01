@@ -28,4 +28,4 @@ The project consists of:
 
 ## 🚀 Getting Started
 
-   https://portfolio-twkbejc8hhpyqk3zbfrafd.streamlit.app/
+https://portfolio-kruyb2ddsgyafty4tdau3b.streamlit.app/
